@@ -1,0 +1,7 @@
+SmoothNormals true
+TextureName Seamless_Texture_1.png
+TextureName Seamless_Texture_2.png
+FileName Mini_Heightmap.png
+Width 32
+Height 32
+vc 1024

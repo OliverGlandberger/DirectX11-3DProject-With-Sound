@@ -1,0 +1,56 @@
+﻿F:\University\Year 2\Semester 2 (2016)\3D-Programmering F�r Civilingenj�rer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\Def_Geometry.hlsl(51,2-56): warning X3206: implicit truncation of vector type
+  compilation object save succeeded; see F:\University\Year 2\Semester 2 (2016)\3D-Programmering För Civilingenjörer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\x64\Debug\Def_Geometry.cso
+F:\University\Year 2\Semester 2 (2016)\3D-Programmering F�r Civilingenj�rer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\Def_Geometry.hlsl(52,2-56): warning X3206: implicit truncation of vector type
+F:\University\Year 2\Semester 2 (2016)\3D-Programmering F�r Civilingenj�rer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\Def_Geometry.hlsl(53,2-56): warning X3206: implicit truncation of vector type
+F:\University\Year 2\Semester 2 (2016)\3D-Programmering F�r Civilingenj�rer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\Def_Geometry.hlsl(72,4-31): warning X3206: implicit truncation of vector type
+  
+F:\University\Year 2\Semester 2 (2016)\3D-Programmering F�r Civilingenj�rer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\Def_Pixel.hlsl(36,69-78): warning X3081: comma expression used where a vector constructor may have been intended
+F:\University\Year 2\Semester 2 (2016)\3D-Programmering F�r Civilingenj�rer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\Def_Pixel.hlsl(31,30-76): warning X3576: semantics in type overridden by variable/function or enclosing type
+  
+  compilation object save succeeded; see F:\University\Year 2\Semester 2 (2016)\3D-Programmering För Civilingenjörer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\x64\Debug\Def_Pixel.cso
+  compilation object save succeeded; see F:\University\Year 2\Semester 2 (2016)\3D-Programmering För Civilingenjörer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\x64\Debug\Def_Vertex.cso
+F:\University\Year 2\Semester 2 (2016)\3D-Programmering F�r Civilingenj�rer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\Light_Pixel.hlsl(66,9-65): warning X3206: implicit truncation of vector type
+F:\University\Year 2\Semester 2 (2016)\3D-Programmering F�r Civilingenj�rer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\Light_Pixel.hlsl(107,3-57): warning X3206: implicit truncation of vector type
+F:\University\Year 2\Semester 2 (2016)\3D-Programmering F�r Civilingenj�rer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\Light_Pixel.hlsl(139,12-86): warning X3206: implicit truncation of vector type
+F:\University\Year 2\Semester 2 (2016)\3D-Programmering F�r Civilingenj�rer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\Light_Pixel.hlsl(139,25-74): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+  
+  compilation object save succeeded; see F:\University\Year 2\Semester 2 (2016)\3D-Programmering För Civilingenjörer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\x64\Debug\Light_Pixel.cso
+  compilation object save succeeded; see F:\University\Year 2\Semester 2 (2016)\3D-Programmering För Civilingenjörer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\x64\Debug\Light_Vertex.cso
+  compilation object save succeeded; see F:\University\Year 2\Semester 2 (2016)\3D-Programmering För Civilingenjörer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\x64\Debug\Particle_Geometry.cso
+  compilation object save succeeded; see F:\University\Year 2\Semester 2 (2016)\3D-Programmering För Civilingenjörer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\x64\Debug\Particle_Pixel.cso
+  compilation object save succeeded; see F:\University\Year 2\Semester 2 (2016)\3D-Programmering För Civilingenjörer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\x64\Debug\Particle_Vertex.cso
+  compilation object save succeeded; see F:\University\Year 2\Semester 2 (2016)\3D-Programmering För Civilingenjörer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\x64\Debug\ShadowMapping_Vertex.cso
+  ApplicationClass.cpp
+  Camera.cpp
+  ConstantBufferClass.cpp
+  DDSTextureLoader.cpp
+  DeferredBuffersClass.cpp
+  DeferredShaderClass.cpp
+  Direct3D.cpp
+  GraphicsClass.cpp
+  HeightMapClass.cpp
+  HeightMapLoaderClass.cpp
+  InputClass.cpp
+  lodepng.cpp
+  lodepng_util.cpp
+  ParticlesClass.cpp
+  PointLightClass.cpp
+  LightHandlerClass.cpp
+  LightShaderClass.cpp
+  main.cpp
+  Object.cpp
+  ObjectHandlerClass.cpp
+  Generating Code...
+  Compiling...
+  objLoader.cpp
+  pch.cpp
+  QuadNodeClass.cpp
+  QuadTreeClass.cpp
+  ShadowMapClass.cpp
+  TextureLoader.cpp
+  TimerClass.cpp
+  WICTextureLoader.cpp
+  Generating Code...
+f:\university\year 2\semester 2 (2016)\3d-programmering för civilingenjörer (dv1542)\assignments\3d project\3d project\3d-project1\03-d3d\quadnodeclass.cpp(75): warning C4715: 'QuadNodeClass::FindGridSlot': not all control paths return a value
+f:\university\year 2\semester 2 (2016)\3d-programmering för civilingenjörer (dv1542)\assignments\3d project\3d project\3d-project1\03-d3d\quadnodeclass.cpp(894): warning C4715: 'QuadNodeClass::CornerDive': not all control paths return a value
+  Demo.vcxproj -> F:\University\Year 2\Semester 2 (2016)\3D-Programmering För Civilingenjörer (DV1542)\Assignments\3D Project\3D PROJECT\3D-Project1\03-D3D\x64\Debug\Demo.exe

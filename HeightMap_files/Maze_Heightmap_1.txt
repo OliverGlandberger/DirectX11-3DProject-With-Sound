@@ -1,0 +1,6 @@
+SmoothNormals false
+TextureName Seamless_Texture_1.png
+FileName Maze_Heightmap_1.png
+Width 520
+Height 520
+vc 270400

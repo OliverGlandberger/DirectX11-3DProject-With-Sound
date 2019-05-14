@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files\hlsl">
+      <UniqueIdentifier>{5ccc298b-c1a9-40cd-ae75-041d036e115b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application">
+      <UniqueIdentifier>{103c60ae-8524-45b5-bca1-bc0945ba6641}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application\Graphics">
+      <UniqueIdentifier>{1f48e46f-4021-4e86-97eb-f5713833167f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application\Graphics\SubGraphics">
+      <UniqueIdentifier>{d5316156-3149-464e-9b6e-d86bc724325c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application\Input">
+      <UniqueIdentifier>{5e183d08-1dd0-423a-9715-62103e701452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application\Input\SubInput">
+      <UniqueIdentifier>{84b3e45e-0fdb-4466-9fc3-55d4605abe9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application">
+      <UniqueIdentifier>{be0270ca-8456-46ec-b9a0-20840ec488c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application\Graphics">
+      <UniqueIdentifier>{5364f7f2-36b5-468e-ba1e-ac7a619943ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application\Graphics\SubGraphics">
+      <UniqueIdentifier>{25bf9707-d1cd-4078-94cb-0e0ef4e856a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hlsl\DeferredShader">
+      <UniqueIdentifier>{f0708869-b86a-44b0-9e37-e62f769300a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application\Graphics\SubGraphics\TEST">
+      <UniqueIdentifier>{9750e408-4274-4a5e-ac20-e373e75988d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application\Input">
+      <UniqueIdentifier>{d79a3cf8-80cb-4a80-af96-80ba0ae09717}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application\Input\SubInput">
+      <UniqueIdentifier>{eb60c92f-6c42-4df7-9a1b-639bc9e555b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hlsl\DeferredShader\Deferred">
+      <UniqueIdentifier>{5b0a55ae-422b-4689-b903-7fe219859116}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hlsl\DeferredShader\Light">
+      <UniqueIdentifier>{28456923-56af-4738-b2be-b936e7dcfb16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application\Graphics\SubGraphics\SubObjectHandler">
+      <UniqueIdentifier>{c7e19466-7b82-4111-9971-d6b2887a6bd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application\Graphics\SubGraphics\SubObjectHandler">
+      <UniqueIdentifier>{848abf00-50e0-422f-82b6-12bb05537339}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application\Input\SubInput\WideString Converter Header Files">
+      <UniqueIdentifier>{253457e9-08a6-4e61-9c6b-385906c7275e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application\Input\SubInput\WideString Converter Source Files">
+      <UniqueIdentifier>{f56fbb1b-869f-4a24-8570-042921010eb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application\ObjectHandlerClass">
+      <UniqueIdentifier>{825ec577-5e65-42ed-8433-2adfaed1aca8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application\Graphics\SubGraphics\SubLightHandler">
+      <UniqueIdentifier>{01db9dde-9ae4-46ba-a63e-93c61209286a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application\Graphics\SubGraphics\SubLightHandler">
+      <UniqueIdentifier>{aa5b9320-7340-443f-8786-59601c139297}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application\Graphics\SubGraphics\QuadTree">
+      <UniqueIdentifier>{5478a660-8804-4808-aa32-16bf74650120}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application\Graphics\SubGraphics\QuadTree">
+      <UniqueIdentifier>{fc256ee3-2afc-486a-8d64-524478fb2712}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application\Input\SubInput\LodePNG Header Files">
+      <UniqueIdentifier>{27e63e50-2df8-4ba9-8d91-a73309126cb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application\Input\SubInput\LodePNG Source Files">
+      <UniqueIdentifier>{fdeeb807-23f5-46f8-80af-d867cc86f2c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hlsl\Particle">
+      <UniqueIdentifier>{36dbc6af-c8a7-4d2c-a771-586fbe481d89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hlsl\ShadowMapping">
+      <UniqueIdentifier>{16ec7b59-0c85-47c6-8a31-3e2ef519785e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application\Graphics\SubGraphics\Deferred">
+      <UniqueIdentifier>{308f3a83-4783-41bf-a9f6-db831cb45ec6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ApplicationClass.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectHandlerClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Direct3D.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstantBufferClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsClass.cpp">
+      <Filter>Source Files\Application\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="InputClass.cpp">
+      <Filter>Source Files\Application\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="DeferredBuffersClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics\Deferred</Filter>
+    </ClCompile>
+    <ClCompile Include="DeferredShaderClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics\Deferred</Filter>
+    </ClCompile>
+    <ClCompile Include="LightShaderClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics\Deferred</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics\SubObjectHandler</Filter>
+    </ClCompile>
+    <ClCompile Include="DDSTextureLoader.cpp">
+      <Filter>Source Files\Application\Input\SubInput\WideString Converter Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files\Application\Input\SubInput\WideString Converter Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WICTextureLoader.cpp">
+      <Filter>Source Files\Application\Input\SubInput\WideString Converter Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LightHandlerClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLightClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics\SubLightHandler</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTreeClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics\QuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadNodeClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics\QuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="lodepng.cpp">
+      <Filter>Source Files\Application\Input\SubInput\LodePNG Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lodepng_util.cpp">
+      <Filter>Source Files\Application\Input\SubInput\LodePNG Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HeightMapClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics\SubObjectHandler</Filter>
+    </ClCompile>
+    <ClCompile Include="HeightMapLoaderClass.cpp">
+      <Filter>Source Files\Application\Input\SubInput</Filter>
+    </ClCompile>
+    <ClCompile Include="objLoader.cpp">
+      <Filter>Source Files\Application\Input\SubInput</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureLoader.cpp">
+      <Filter>Source Files\Application\Input\SubInput</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadowMapClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics\SubObjectHandler</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticlesClass.cpp">
+      <Filter>Source Files\Application\Graphics\SubGraphics\SubObjectHandler</Filter>
+    </ClCompile>
+    <ClCompile Include="TimerClass.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Def_Pixel.hlsl">
+      <Filter>Source Files\hlsl\DeferredShader\Deferred</Filter>
+    </FxCompile>
+    <FxCompile Include="Def_Vertex.hlsl">
+      <Filter>Source Files\hlsl\DeferredShader\Deferred</Filter>
+    </FxCompile>
+    <FxCompile Include="Light_Pixel.hlsl">
+      <Filter>Source Files\hlsl\DeferredShader\Light</Filter>
+    </FxCompile>
+    <FxCompile Include="Light_Vertex.hlsl">
+      <Filter>Source Files\hlsl\DeferredShader\Light</Filter>
+    </FxCompile>
+    <FxCompile Include="Def_Geometry.hlsl">
+      <Filter>Source Files\hlsl\DeferredShader\Deferred</Filter>
+    </FxCompile>
+    <FxCompile Include="Particle_Geometry.hlsl">
+      <Filter>Source Files\hlsl\Particle</Filter>
+    </FxCompile>
+    <FxCompile Include="Particle_Pixel.hlsl">
+      <Filter>Source Files\hlsl\Particle</Filter>
+    </FxCompile>
+    <FxCompile Include="Particle_Vertex.hlsl">
+      <Filter>Source Files\hlsl\Particle</Filter>
+    </FxCompile>
+    <FxCompile Include="ShadowMapping_Vertex.hlsl">
+      <Filter>Source Files\hlsl\ShadowMapping</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Globals.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ApplicationClass.hpp">
+      <Filter>Header Files\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsClass.hpp">
+      <Filter>Header Files\Application\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="InputClass.hpp">
+      <Filter>Header Files\Application\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstantBufferClass.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Direct3D.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="DeferredBuffersClass.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics\TEST</Filter>
+    </ClInclude>
+    <ClInclude Include="DeferredShaderClass.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics\TEST</Filter>
+    </ClInclude>
+    <ClInclude Include="LightShaderClass.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics\TEST</Filter>
+    </ClInclude>
+    <ClInclude Include="objLoader.hpp">
+      <Filter>Header Files\Application\Input\SubInput</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics\SubObjectHandler</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureLoader.hpp">
+      <Filter>Header Files\Application\Input\SubInput</Filter>
+    </ClInclude>
+    <ClInclude Include="dds.h">
+      <Filter>Header Files\Application\Input\SubInput\WideString Converter Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DDSTextureLoader.h">
+      <Filter>Header Files\Application\Input\SubInput\WideString Converter Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectXHelpers.h">
+      <Filter>Header Files\Application\Input\SubInput\WideString Converter Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoaderHelpers.h">
+      <Filter>Header Files\Application\Input\SubInput\WideString Converter Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files\Application\Input\SubInput\WideString Converter Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlatformHelpers.h">
+      <Filter>Header Files\Application\Input\SubInput\WideString Converter Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WICTextureLoader.h">
+      <Filter>Header Files\Application\Input\SubInput\WideString Converter Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectHandlerClass.hpp">
+      <Filter>Header Files\Application\ObjectHandlerClass</Filter>
+    </ClInclude>
+    <ClInclude Include="LightHandlerClass.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLightClass.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics\SubLightHandler</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTreeClass.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics\QuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadNodeClass.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics\QuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="lodepng.h">
+      <Filter>Header Files\Application\Input\SubInput\LodePNG Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lodepng_util.h">
+      <Filter>Header Files\Application\Input\SubInput\LodePNG Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeightMapClass.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics\SubObjectHandler</Filter>
+    </ClInclude>
+    <ClInclude Include="HeightMapLoaderClass.hpp">
+      <Filter>Header Files\Application\Input\SubInput</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadowMapClass.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics\SubObjectHandler</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticlesClass.hpp">
+      <Filter>Header Files\Application\Graphics\SubGraphics\SubObjectHandler</Filter>
+    </ClInclude>
+    <ClInclude Include="TimerClass.hpp">
+      <Filter>Header Files\Application</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
